@@ -13,7 +13,7 @@ Download `TranslateFit_Trial_v1.0.0.zip` from [Releases](https://github.com/ling
 - The sample document in the zip is not limited, so you can try the whole round trip on it.
 - The trial is a script: choose **File > Scripts > Other Script...** and select `TranslateFit_Trial.jsx`. Instructions are in `QUICK-START-TRIAL.md` inside the zip.
 
-The full version is a panel on Adobe Exchange (**Window > Extensions > Translate & Fit** after installing).
+The full version is a panel on [Adobe Exchange](https://exchange.adobe.com/apps/cc/206152) (**Window > Extensions > Translate & Fit** after installing).
 
 ## How it works
 
